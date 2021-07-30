@@ -1,3 +1,3 @@
-Lecture 2
+Tutors Course Structure
 
-The summary can indicate the lecture objectives of contents.
+A tour of the structure of a typical tutors course.

@@ -1,3 +1,3 @@
-Lecture 1
+Introducing Tutors
 
-A short summary of the talk, no more than two sentences. Avoid bullet points or links for formatting reasons.
+Some context and background of the tutor app.

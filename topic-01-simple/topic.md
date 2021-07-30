@@ -1,3 +1,3 @@
-# Simple 
+# Getting Started
 
-Just lectures and labs
+Introducing Tutors
