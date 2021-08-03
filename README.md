@@ -1,4 +1,4 @@
-# tutors-starter
+# test module using tutors-starter
 
 A starter course structure for the tutors generator. This course is deployed here:
 

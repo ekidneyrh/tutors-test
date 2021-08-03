@@ -1,3 +1,3 @@
-Introduction to Accessible Education
+Intro to Accessiblity
 
 One size does not fit all.
