@@ -1,3 +1,3 @@
-Lecture 3
+Introduction to Accessible Education
 
-A flavour of the contents.
+One size does not fit all.
