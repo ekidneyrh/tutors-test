@@ -1,3 +1,3 @@
-# Varied
+# Accessibilty
 
-Lectures & labs + archive and github repos
+What does it mean and why is it important. 

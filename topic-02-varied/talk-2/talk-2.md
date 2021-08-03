@@ -1,3 +1,3 @@
-Lecture 4
+Improving Usability
 
-Indicate what the talk is about.
+Aim to provide the same user experience for all.
