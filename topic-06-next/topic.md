@@ -1,3 +1,3 @@
-# Hidden Simple 
+# Tutors Meetings
 
-Just lectures and labs
+Repo of all meetings so far. 

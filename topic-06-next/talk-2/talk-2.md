@@ -1,3 +1,3 @@
-Lecture 2
+Meeting 2 (30/07/21)
 
-A short summary of the talk, no more than two sentences. Avoid bullet points or links for formatting reasons.
+A short summary of meeting. 
