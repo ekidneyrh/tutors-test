@@ -1,3 +1,3 @@
-Resources
+Useful Links
 
-ZIP file containing additional resources
+ZIP file containing additional supporting websites.

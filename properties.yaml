@@ -6,3 +6,5 @@ ignorepin : 1997
 ignore:
   - topic-04-units
   - topic-03-media
+  - topic-01-simple
+  
