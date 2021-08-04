@@ -1,5 +1,6 @@
 {
   "dependencies": {
-    "tutors-json": "^2"
+    "node": "^16.6.1",
+    "tutors-json": "^2.1.1"
   }
 }
