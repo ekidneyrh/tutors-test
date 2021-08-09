@@ -2,7 +2,7 @@
 
 A starter course structure for the tutors generator. This course is deployed here:
 
-- <https://tutors-starter.netlify.app>
+- <https://tutors-svelte.netlify.app/#/course/emmas-tester.netlify.app>
 
 A local static version of the course can be built as follows:
 
