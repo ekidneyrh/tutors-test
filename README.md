@@ -1,8 +1,10 @@
-# test module using tutors-starter
+# UI/UX Module
 
-A starter course structure for the tutors generator. This course is deployed here:
+A log of my research into accessibility and universal design in regards to the Tutors app.
 
-- <https://tutors-svelte.netlify.app/#/course/emmas-tester.netlify.app>
+Using the tutors generator for the module structure. The module is deployed here:
+
+- [Emma's Tester Course ](https://tutors-svelte.netlify.app/#/course/emmas-tester.netlify.app)
 
 A local static version of the course can be built as follows:
 
