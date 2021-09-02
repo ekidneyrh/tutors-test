@@ -10,7 +10,7 @@ ignore:
   
 iconset:
   programHome:
-    icon: la:home
+    icon: bx:bxs-home-heart
     colour: warning
   moduleHome:
     icon: la:home
