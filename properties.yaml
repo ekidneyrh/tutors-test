@@ -28,28 +28,28 @@ iconset:
     icon: uil:tv-retro
     colour: error
   zoom:
-    icon: la:youtube-square
+    icon: uil:webcam
     colour: info
   course:
-    icon: la:book-open
-    colour: info
-  topic:
     icon: uil:folder-network
     colour: info
+  topic:
+    icon: uil:notebooks
+    colour: info
   unit:
-    icon: la:digital-tachograph
+    icon: uil:notes
     colour: success
   talk:
-    icon: la:chalkboard-teacher
+    icon: uil:podium
     colour: info
   reference:
-    icon: la:folder-open
+    icon: luil:books
     colour: warning
   lab:
-    icon: la:flask
+    icon: uil:flask
     colour: success
   archive:
-    icon: uil:download-alt
+    icon: uil:archive-alt
     colour: info
   web:
     icon: uil:link
@@ -61,13 +61,13 @@ iconset:
     icon: la:youtube
     colour: error
   left:
-    icon: la:arrow-left
+    icon: uil:arrow-circle-left
     colour: success
   right:
-    icon: la:arrow-right
+    icon: uil:arrow-circle-right
     colour: success
   print:
-    icon: la:home
+    icon: uil:print
     colour: success
   rotate:
     icon: la:redo-alt
@@ -79,7 +79,7 @@ iconset:
     icon: la:arrows-alt
     colour: success
   expand:
-    icon: la:home
+    icon: uil:expand-arrows-alt
     colour: success
   tutorsTime:
     icon: la:home
@@ -91,7 +91,7 @@ iconset:
     icon: la:home
     colour: success
   search:
-    icon: bx:bxs-home-heart
+    icon: uil:search-alt
     colour: info
   tutors:
     icon: la:home
