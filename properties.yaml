@@ -13,7 +13,7 @@ iconset:
     icon: uil:estate
     colour: warning
   moduleHome:
-    icon: uil:folder
+    icon: uil:books
     colour: warning
   slack:
     icon: uil:slack-alt
@@ -34,16 +34,16 @@ iconset:
     icon: uil:folder-network
     colour: info
   topic:
-    icon: uil:notebooks
+    icon: uil:book-alt
     colour: info
   unit:
-    icon: uil:notes
+    icon: uil:book-open
     colour: success
   talk:
-    icon: uil:podium
+    icon: uil:presentation
     colour: info
   reference:
-    icon: luil:books
+    icon: uil:notebooks
     colour: warning
   lab:
     icon: uil:flask
