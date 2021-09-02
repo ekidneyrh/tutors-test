@@ -91,7 +91,7 @@ iconset:
     icon: la:home
     colour: success
   search:
-    icon: la:home
+    icon: bx:bxs-home-heart
     colour: info
   tutors:
     icon: la:home
