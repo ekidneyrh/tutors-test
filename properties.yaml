@@ -31,7 +31,7 @@ iconset:
     icon: uil:webcam
     colour: info
   course:
-    icon: uil:folder-network
+    icon: uil:books
     colour: info
   topic:
     icon: uil:book-alt
@@ -58,7 +58,7 @@ iconset:
     icon: uil:github-alt
     colour: warning
   panelvideo:
-    icon: la:youtube
+    icon: uil:tv-retro
     colour: error
   left:
     icon: uil:arrow-circle-left
@@ -70,25 +70,25 @@ iconset:
     icon: uil:print
     colour: success
   rotate:
-    icon: la:redo-alt
+    icon: uil:process
     colour: success
   download:
     icon: uil:download-alt
     colour: success
   fullScreen:
-    icon: la:arrows-alt
+    icon: uil:expand-arrows-alt
     colour: success
   expand:
     icon: uil:expand-arrows-alt
     colour: success
   tutorsTime:
-    icon: la:home
+    icon: uil:hourglass
     colour: info
   timeExport:
-    icon: la:home
+    icon: uil:file-export
     colour: success
   live:
-    icon: la:home
+    icon: uil:clock-nine
     colour: success
   search:
     icon: uil:search-alt
@@ -97,10 +97,10 @@ iconset:
     icon: la:home
     colour: info
   logout:
-    icon: la:home
+    icon: uil:exit
     colour: error
   dark:
-    icon: la:moon
+    icon: uil:eye
     colour: warning
   toc:
     icon: la:bars
