@@ -10,22 +10,22 @@ ignore:
   
 iconset:
   programHome:
-    icon: bx:bxs-home-heart
+    icon: uil:estate
     colour: warning
   moduleHome:
-    icon: la:home
+    icon: uil:folder
     colour: warning
   slack:
-    icon: la:slack
+    icon: uil:slack-alt
     colour: error
   moodle:
-    icon: la:university
+    icon: uil:graduation-cap
     colour: warning
   youtube:
-    icon: la:youtube
+    icon: uil:tv-retro
     colour: error
   video:
-    icon: la:youtube
+    icon: uil:tv-retro
     colour: error
   zoom:
     icon: la:youtube-square
@@ -34,7 +34,7 @@ iconset:
     icon: la:book-open
     colour: info
   topic:
-    icon: la:project-diagram
+    icon: uil:folder-network
     colour: info
   unit:
     icon: la:digital-tachograph
@@ -49,13 +49,13 @@ iconset:
     icon: la:flask
     colour: success
   archive:
-    icon: la:home
+    icon: uil:download-alt
     colour: info
   web:
-    icon: la:folder-open
+    icon: uil:link
     colour: info
   github:
-    icon: la:home
+    icon: uil:github-alt
     colour: warning
   panelvideo:
     icon: la:youtube
@@ -73,7 +73,7 @@ iconset:
     icon: la:redo-alt
     colour: success
   download:
-    icon: la:arrow-down
+    icon: uil:download-alt
     colour: success
   fullScreen:
     icon: la:arrows-alt
