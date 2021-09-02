@@ -8,3 +8,107 @@ ignore:
   - topic-03-media
   - topic-01-simple
   
+iconset:
+  programHome:
+    icon: la:home
+    colour: warning
+  moduleHome:
+    icon: la:home
+    colour: warning
+  slack:
+    icon: la:slack
+    colour: error
+  moodle:
+    icon: la:university
+    colour: warning
+  youtube:
+    icon: la:youtube
+    colour: error
+  video:
+    icon: la:youtube
+    colour: error
+  zoom:
+    icon: la:youtube-square
+    colour: info
+  course:
+    icon: la:book-open
+    colour: info
+  topic:
+    icon: la:project-diagram
+    colour: info
+  unit:
+    icon: la:digital-tachograph
+    colour: success
+  talk:
+    icon: la:chalkboard-teacher
+    colour: info
+  reference:
+    icon: la:folder-open
+    colour: warning
+  lab:
+    icon: la:flask
+    colour: success
+  archive:
+    icon: la:home
+    colour: info
+  web:
+    icon: la:folder-open
+    colour: info
+  github:
+    icon: la:home
+    colour: warning
+  panelvideo:
+    icon: la:youtube
+    colour: error
+  left:
+    icon: la:arrow-left
+    colour: success
+  right:
+    icon: la:arrow-right
+    colour: success
+  print:
+    icon: la:home
+    colour: success
+  rotate:
+    icon: la:redo-alt
+    colour: success
+  download:
+    icon: la:arrow-down
+    colour: success
+  fullScreen:
+    icon: la:arrows-alt
+    colour: success
+  expand:
+    icon: la:home
+    colour: success
+  tutorsTime:
+    icon: la:home
+    colour: info
+  timeExport:
+    icon: la:home
+    colour: success
+  live:
+    icon: la:home
+    colour: success
+  search:
+    icon: la:home
+    colour: info
+  tutors:
+    icon: la:home
+    colour: info
+  logout:
+    icon: la:home
+    colour: error
+  dark:
+    icon: la:moon
+    colour: warning
+  toc:
+    icon: la:bars
+  workshop:
+    icon: la:home
+  compacted:
+    icon: la:grip-vertical
+  expanded:
+    icon: la:grip-horizontal
+  default:
+    icon: la:home
